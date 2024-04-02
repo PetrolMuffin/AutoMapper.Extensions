@@ -8,7 +8,7 @@
         <Description>Extension methods for AutoMapper</Description>
         <PackageProjectUrl>https://github.com/PetrolMuffin/PetrolMuffin.AutoMapper.Extensions</PackageProjectUrl>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
-        <Copyright>PetrolMuffin 2024</Copyright>
+        <Copyright>Aleksandr Tereshchenko 2024</Copyright>
         <PackageReadmeFile>readme.md</PackageReadmeFile>
     </PropertyGroup>
     
