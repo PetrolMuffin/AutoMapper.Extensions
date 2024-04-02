@@ -7,6 +7,7 @@
         <Authors>Aleksandr Tereshchenko</Authors>
         <Description>Extension methods for AutoMapper</Description>
         <PackageProjectUrl>https://github.com/PetrolMuffin/PetrolMuffin.AutoMapper.Extensions</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/PetrolMuffin/PetrolMuffin.AutoMapper.Extensions</RepositoryUrl>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
         <Copyright>Aleksandr Tereshchenko 2024</Copyright>
         <PackageReadmeFile>readme.md</PackageReadmeFile>
